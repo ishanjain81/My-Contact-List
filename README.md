@@ -1,3 +1,6 @@
+# My-Contact-List
+Making my own contact list with nodejs using Express! Users can add and delete contacts as per their needs. A cool and simple UI for good user experience.
+
 ## Screenshots
 
 ![Home Page](Screenshots/home.JPG "Home Page")
